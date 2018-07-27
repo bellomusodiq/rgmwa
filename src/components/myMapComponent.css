@@ -1,0 +1,6 @@
+.mayo{
+    background: black;
+}
+alink, alink:visited,alink::after{
+    color: rgba(5, 45, 156, 0.829);
+}
